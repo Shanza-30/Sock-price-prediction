@@ -17,7 +17,7 @@ To predict the **next day’s closing stock price** using historical time-series
   - Low
   - Volume
 - **Target Variable:**
-  - Next Day Close Price
+  Next Day Close Price
 
 
 ## 🛠️ Technologies & Libraries Used
