@@ -3,7 +3,6 @@
 This project focuses on **short-term stock price prediction** using historical stock market data.  
 A Machine Learning regression model is trained to predict the **next day's closing price** based on features such as **Open, High, Low, and Volume**.
 
-
 # 🎯 Objective
 To predict the **next day’s closing stock price** using historical time-series data and regression techniques.
 
